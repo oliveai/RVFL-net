@@ -1,4 +1,3 @@
-addpath(genpath('F:\'))
 
 %iris
 clear all
